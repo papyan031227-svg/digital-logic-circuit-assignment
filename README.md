@@ -66,3 +66,4 @@
 
 ### STEP 5. Fork Repo 최신 상태 갱신(Sync fork)
 <img width="1977" height="1083" alt="Image" src="https://github.com/user-attachments/assets/6dabf14d-5612-44ec-b7e0-f0d9e5aafdd6" />
+<img width="2537" height="1393" alt="Image" src="https://github.com/user-attachments/assets/e8eb6c1a-7ef1-4eac-aecf-1074989a15b2" />
